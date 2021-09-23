@@ -1,0 +1,8 @@
+__pycache__
+
+# Models
+./Models/
+
+# Matrix directories
+./Matlab/matrix_generated/
+./Matlab/originales/
